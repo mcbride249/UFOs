@@ -96,17 +96,19 @@ The purpose of this task was to improve upon the dynamic webpage that we already
 
 ## **Results**
 
+The below image shows the unfiltered, completed page, as it is displayed upon opening.
+
+![Results - Image 1 -  Unfiltered](https://user-images.githubusercontent.com/92111396/149171478-29bf2eeb-441b-4499-90d3-94bfde7edcde.PNG)
 
 
+The below image shows the filtered page, based on all seach criteria, exluding "city" to demonstrate that the filters work.
+
+![Results - Image 2 - Filtered](https://user-images.githubusercontent.com/92111396/149171501-4d616758-943b-45e0-be75-c11eb323d20a.PNG)
 
 
+The below image shows the filtered page using all filters.
 
-
-
-
-
-
-
+![Results - Image 3 - Filtered](https://user-images.githubusercontent.com/92111396/149171512-5eb801df-fdfd-4611-998a-943169fb5ae9.PNG)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
