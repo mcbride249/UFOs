@@ -46,7 +46,7 @@
 
 ## **Resources**
 
--Data Source: ufo_starterCOde.js, data.js
+-Data Source: ufo_starterCode.js, data.js
 
 -Images: nasa.jpg
 
