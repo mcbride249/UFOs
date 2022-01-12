@@ -28,7 +28,7 @@ The purpose of this analysis was to JavaScript to build a dynamic web page that 
 The code that created the table, looped through the data, and adding neww data to the table in aeach cell can be seen here:   
 
 ![Goal 1](https://user-images.githubusercontent.com/92111396/149159404-704f3867-46e4-4f9c-a6b3-783eca77a66f.PNG)
-
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Goal%201.PNG
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,6 +37,7 @@ The code that created the table, looped through the data, and adding neww data t
 The filter function that can be seen in the following block of code used the D3.js library. This allowed us to "listen for events", in this case the user clicking the button on the filter, once their search criteria had been imported.  
 
 ![Goal 2](https://user-images.githubusercontent.com/92111396/149160157-38251ab3-0501-4a6a-85cf-bc450ffca34f.PNG)
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Goal%202.PNG
 
 The if statement allowed the code to check for a date and if one was present, only the dta for that row would be returned. 
 
@@ -49,12 +50,14 @@ Finally, after the data had been filtered, the table needed to be rebuilt using 
 The below image shows the design ffor the web page that Dana wants to create.
 
 ![Bootstrap Grid System](https://user-images.githubusercontent.com/92111396/149162066-77cdc051-3fc7-49ef-998a-ead85c52f839.png)
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Bootstrap%20Grid%20System.png
 
 We designed the web page using HTML using the Bootstrap Grid System. A link to the HTML code that was used to design the system can be found here: https://github.com/mcbride249/UFOs/blob/main/index.html.
 
 While the design itself is relatively self explanatory, scripts were added to the bottom of the code to link our HTML code to the D#.js library, as well as linking the file that contains our data, and the JavaScript that will run our code. 
 
 ![Goal 3](https://user-images.githubusercontent.com/92111396/149163577-d650265b-5c2e-47fa-9933-75c98c8585e6.PNG)
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Goal%203.PNG
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -66,10 +69,11 @@ The final design image for the page can be seen below both with filtered and unf
 
 Unfiltered:
 ![Goal 4-1 - Unfiltered](https://user-images.githubusercontent.com/92111396/149165506-4b75501a-2eb0-40d5-af58-1963f924f641.PNG)
-
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Goal%204-1%20-%20Unfiltered.PNG
 
 Filtered:
 ![Goal 4 - Filtered](https://user-images.githubusercontent.com/92111396/149165483-a5327a4a-1107-4ded-a437-b03164d7d621.PNG)
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Goal%204%20-%20Filtered.PNG
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -99,16 +103,20 @@ The purpose of this task was to improve upon the dynamic webpage that we already
 The below image shows the unfiltered, completed page, as it is displayed upon opening.
 
 ![Results - Image 1 -  Unfiltered](https://user-images.githubusercontent.com/92111396/149171478-29bf2eeb-441b-4499-90d3-94bfde7edcde.PNG)
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Results%20-%20Image%201%20-%20%20Unfiltered.PNG
 
 
 The below image shows the filtered page, based on all seach criteria, exluding "city" to demonstrate that the filters work.
 
 ![Results - Image 2 - Filtered](https://user-images.githubusercontent.com/92111396/149171501-4d616758-943b-45e0-be75-c11eb323d20a.PNG)
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Results%20-%20Image%202%20-%20Filtered.PNG
 
 
 The below image shows the filtered page using all filters.
 
 ![Results - Image 3 - Filtered](https://user-images.githubusercontent.com/92111396/149171512-5eb801df-fdfd-4611-998a-943169fb5ae9.PNG)
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Results%20-%20Image%203%20-%20Filtered.PNG
+
 
 **How To Perform A Search**
 
@@ -117,12 +125,12 @@ Searches can be performed by entering the search criteria from the table into co
 Searches can be refined based on the date, city, state, country, in which the event occurred or based on the shape of the UFO.
 
 ![Results - Table Filter Headers](https://user-images.githubusercontent.com/92111396/149174115-8ce99008-49ed-453e-85fa-a85b8b793e8c.PNG)
-
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Results%20-%20Table%20Filter%20Headers.PNG
 
 To search for a specific field simply type the search parameters into the filtered areas. The filters themselves contain an example of how data must be inputted.
 
 ![Results - Filter Search Criteria](https://user-images.githubusercontent.com/92111396/149174139-5dcd4bc0-125c-456b-b218-a3cc4bd47b7e.PNG)
-
+https://github.com/mcbride249/UFOs/blob/main/Screenshots/Results%20-%20Filter%20Search%20Criteria.PNG
 
 To clear the filter, simply delete the data that was entered in each filter.
 
