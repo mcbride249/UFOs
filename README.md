@@ -46,31 +46,30 @@ Finally, after the data had been filtered, the table needed to be rebuilt using 
 
 3. Design the web page with Bootstrap.
 
+The below image shows the design ffor the web page that Dana wants to create.
+
+![Bootstrap Grid System](https://user-images.githubusercontent.com/92111396/149162066-77cdc051-3fc7-49ef-998a-ead85c52f839.png)
+
+We designed the web page using HTML using the Bootstrap Grid System. A link to the HTML code that was used to design the system can be found here: https://github.com/mcbride249/UFOs/blob/main/index.html.
+
+While the design itself is relatively self explanatory, scripts were added to the bottom of the code to link our HTML code to the D#.js library, as well as linking the file that contains our data, and the JavaScript that will run our code. 
+
+![Goal 3](https://user-images.githubusercontent.com/92111396/149163577-d650265b-5c2e-47fa-9933-75c98c8585e6.PNG)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4. Customize the page.
 
+The page was customized by changing the font and background via the CSS file. The most striking design amendment was the importation of a background image to the jumbotron.
+
+The final design image for the page can be seen below both with filtered and unfiltered data.
+
+Unfiltered:
+![Goal 4-1 - Unfiltered](https://user-images.githubusercontent.com/92111396/149165506-4b75501a-2eb0-40d5-af58-1963f924f641.PNG)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Filtered:
+![Goal 4 - Filtered](https://user-images.githubusercontent.com/92111396/149165483-a5327a4a-1107-4ded-a437-b03164d7d621.PNG)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
