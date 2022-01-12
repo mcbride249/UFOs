@@ -90,7 +90,7 @@ Filtered:
 
 ## **Purpose**
 
-
+The purpose of this task was to improve upon the dynamic webpage that we already created for Dana by allowing users to filter along multiple criteria beyond the date, such as city, state, country, and shape, in which the UFOs sighting occurred. This was done by creating four more list elements based on the search criteria in the HTML index file. Within the app.js file, a variable "var filters = {}" was created to track all of the filters, while a new function was also created to update the filters and save each element of the filter that was changed(steps 3-5). Ultimately, the dynamic web page was updated to include 5 filters, that automatically reacted user input based on their specific search criteria, and negating the need for a search button.     
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
