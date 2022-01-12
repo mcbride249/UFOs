@@ -131,6 +131,13 @@ To clear the filter, simply delete the data that was entered in each filter.
 
 ## **Summary**
 
+While the dynamic webpage performs its function and is visually appealing, there are a number of drawbacks to the page itself and ways that it can be improved that should  be suggested to Dana.
+
+The most obvious drawback is the need to erase your input in the filters in order to return to the full set of data in the table. The solution to this would be to create a clear button, that erased all inputted data from the filters, thereby returning the full table data and eliminating the need for the user to manually erase the text in each filter. This could be accomplished by creating a button similar to that we originally created for Dana: <button type = “reset” value = “Reset”>Reset</button> or something similar.
+
+Additional improvements that I would recommend include removing the country as a search criterion, as only one data row contains information from outside of the United States, and as such entering the country information does not greatly reduce the amount of information that is present. Perhaps when additional data gets added from outside the United States this filter could be readded. If we are going to include data from outside the United States, the “State” column should be updated to read “State/Province” as many countries (including the one other country currently listed on the table) utilize a provincial system. 
+
+I would also not restrict the manner in which data could be entered into the filter. Specifically, I would allow for capitalization of place names, or allow for full state names to be entered, as many users may simply input this data assuming it will work, however no data will be returned. Similarly, I would recommend double digit months and days (beginning with 0s) be eligible to be entered into the filters in addition to what is currently in place (i.e.. 01/13/2013, and 03/09/2015) as users may do this instinctually. Making these small updates will increase the user experience.
 
 
 
