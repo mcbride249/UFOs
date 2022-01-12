@@ -8,15 +8,13 @@ The purpose of this analysis was to JavaScript to build a dynamic web page that 
 
 ## **Goals**
 
-1. Build a table function.
+1. Build a table function, loop through each function and append a row to the HTML table, adding eavch object into a cell.
 
-2. Loop through each function and append a row to the HTML table, adding eavch object into a cell.
+2. Add filters.
 
-3. Add filters.
+3. Design the web page with Bootstrap.
 
-4. Design the web page with Bootstrap.
-
-5. Customize the page.
+4. Customize the page.
 
 
 
@@ -25,26 +23,32 @@ The purpose of this analysis was to JavaScript to build a dynamic web page that 
 
 ## **Summary**
 
-1. Build a table function.
+1. Build a table function, loop through each function and append a row to the HTML table, adding each object into a cell.
+
+The code that created the table, looped through the data, and adding neww data to the table in aeach cell can be seen here:   
+
+![Goal 1](https://user-images.githubusercontent.com/92111396/149159404-704f3867-46e4-4f9c-a6b3-783eca77a66f.PNG)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+2. Add filters.
 
+The filter function that can be seen in the following block of code used the D3.js library. This allowed us to "listen for events", in this case the user clicking the button on the filter, once their search criteria had been imported.  
 
-2. Loop through each function and append a row to the HTML table, adding eavch object into a cell.
+![Goal 2](https://user-images.githubusercontent.com/92111396/149160157-38251ab3-0501-4a6a-85cf-bc450ffca34f.PNG)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The if statement allowed the code to check for a date and if one was present, only the dta for that row would be returned. 
 
-3. Add filters.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-4. Design the web page with Bootstrap.
+Finally, after the data had been filtered, the table needed to be rebuilt using the filtered data. This is was done by passing the filtered data through the build table function. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5. Customize the page.
+3. Design the web page with Bootstrap.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. Customize the page.
 
 
 
