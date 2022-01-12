@@ -8,7 +8,15 @@ The purpose of this analysis was to JavaScript to build a dynamic web page that 
 
 ## **Goals**
 
+1. Build a table function.
 
+2. Loop through each function and append a row to the HTML table, adding eavch object into a cell.
+
+3. Add filters.
+
+4. Design the web page with Bootstrap.
+
+5. Customize the page.
 
 
 
@@ -17,7 +25,26 @@ The purpose of this analysis was to JavaScript to build a dynamic web page that 
 
 ## **Summary**
 
+1. Build a table function.
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+2. Loop through each function and append a row to the HTML table, adding eavch object into a cell.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Add filters.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. Design the web page with Bootstrap.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. Customize the page.
 
 
 
